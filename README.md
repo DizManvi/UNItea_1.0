@@ -5,7 +5,7 @@ UNItea is comprised of two words, UNI for University and tea for the Gen-Z word 
 <h2><b> Why Unity ? </b> </h2>
 Surveying with over 100 students , we found that more than 90% of the students miss opportunities or sessions by societies and find a need of a platform where they could have events filtered based on categories such as social , cultural , tech , etc. We also found that students wanted to host their own events. They often have doubts and many of them are hesitant approaching to seniors. Quora and Linkedin are vast spaces and there, their questions and opportunities get often missed.
 
-<h2><b> What did we made ? </b> </h2>
+<h2><b> What did we make ? </b> </h2>
 We created a web-application which displays events happening in your college , you can sort them based on categories , register for them and get a track of your own activity through personalised dashboard. Not just that , you have a tweet space where you can tweet , read tweets and tea from your peers , share posts of the hottest gossips of your university , ask doubts from your peers and seniors , getting resources such as ebooks , notes all at one place. We have ideated a reward system for solving doubts, submitting resources and hosting events in your college which can be redeemed to get discount on partner brands.
 This way , no student will miss any opportunity and can ask and interact with peers easily even if they are introverts or hesitant.<br>
 
